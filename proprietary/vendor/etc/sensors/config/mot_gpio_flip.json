@@ -1,0 +1,23 @@
+{
+  "config":
+  {
+    "hw_platform": ["MTP", "Dragon", "Surf"],
+    "soc_id": ["415"]
+  },
+  "mot_gpio_flip":{
+    "owner": "mot_gpio_flip",
+    ".params":{
+      "owner": "mot_gpio_flip",
+
+      "flip_det_out_gpio":{ "type": "int", "ver": "0",
+        "data": "80"
+      },
+      "flip_det_out_gpio_ischip":{ "type": "int", "ver": "0",
+        "data": "1"
+      },
+      "flip_state_gpio":{ "type": "int", "ver": "0",
+        "data": "67"
+      }
+    }
+  }
+}
