@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/scan_bar_card_button_height" android:width="@dimen/scan_bar_card_button_width" />
+    <corners android:radius="@dimen/scan_bar_card_radius_small" />
+    <solid android:color="@color/scan_bar_card_button_bg_selector" />
+</shape>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25-fach</item>
+        <item>0,5-fach</item>
+        <item>0,75-fach</item>
+        <item>Standard</item>
+        <item>1,25-fach</item>
+        <item>1,5-fach</item>
+        <item>2-fach</item>
+    </string-array>
+    <string-array name="filter_names">
+        <item>Tageslicht</item>
+        <item>Romantisch</item>
+        <item>Film</item>
+        <item>Gedämpft</item>
+        <item>Verträumt</item>
+        <item>Frisch</item>
+        <item>Kühl</item>
+        <item>Dunkelgold</item>
+        <item>Gourmet</item>
+        <item>Cyberpunk</item>
+        <item>Jugend</item>
+        <item>Spätherbst</item>
+        <item>S/W klassisch</item>
+        <item>S/W lebhaft</item>
+    </string-array>
+    <string-array name="talkback_cli_modes_menu_pills">
+        <item>Fotomodus aktiv</item>
+        <item>Videomodus aktiv</item>
+        <item>Spotfarbe-Video-Modus aktiv</item>
+        <item>Zeitraffer-Modus aktiv</item>
+        <item>Zeitlupe-Modus aktiv</item>
+        <item>Porträtmodus aktiv</item>
+        <item>Spotfarbe-Modus aktiv</item>
+        <item>Nachtsicht-Modus aktiv</item>
+        <item>Gruppen-Selfie-Modus aktiv</item>
+        <item>Live-Filter-Modus aktiv</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_close_settings">
+        <item>Autofokus schließen</item>
+        <item>Weißabgleich schließen</item>
+        <item>Belichtungszeit schließen</item>
+        <item>ISO schließen</item>
+        <item>Belichtungskorrektur schließen</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_selectors">
+        <item>Auswahl des Autofokus</item>
+        <item>Auswahl des Weißabgleichs</item>
+        <item>Auswahl der Belichtungszeit</item>
+        <item>ISO-Auswahl</item>
+        <item>Auswahl der Belichtungskorrektur</item>
+    </string-array>
+    <string-array name="talkback_tooltip_titles">
+        <item>Kurzanleitung Porträt</item>
+        <item>Kurzanleitung Cinemagramm</item>
+        <item>Kurzanleitung Spotfarbe</item>
+        <item>Kurzanleitung Spotfarbe-Video</item>
+        <item>Kurzanleitung Freistellung</item>
+        <item>Kurzanleitung Ultra-Res</item>
+        <item>Kurzanleitung Makros</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/face_beauty_item_content" android:background="@drawable/bg_face_beauty_manual" android:padding="@dimen/face_beauty_item_padding" android:layout_width="@dimen/face_beauty_item_height" android:layout_height="@dimen/face_beauty_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/face_beauty_item_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="false" />
+    <TextView android:textSize="@dimen/face_beauty_item_text_size" android:gravity="center" android:id="@id/face_beauty_item_text" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

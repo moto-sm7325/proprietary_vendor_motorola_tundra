@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Biasa</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="filter_names">
+        <item>Natural light</item>
+        <item>Romantic</item>
+        <item>Film</item>
+        <item>Muted</item>
+        <item>Dreamy</item>
+        <item>Refreshing</item>
+        <item>Cool</item>
+        <item>Dark Gold</item>
+        <item>Foodie</item>
+        <item>Cyberpunk</item>
+        <item>Youth</item>
+        <item>Late Autumn</item>
+        <item>B&amp;W Classic</item>
+        <item>B&amp;W Vivid</item>
+    </string-array>
+    <string-array name="talkback_cli_modes_menu_pills">
+        <item>Mod foto aktif</item>
+        <item>Mod Video aktif</item>
+        <item>Mod Video Warna Tompok Aktif</item>
+        <item>Mod selang masa aktif</item>
+        <item>Mod Gerakan Perlahan aktif</item>
+        <item>Mod potret aktif</item>
+        <item>Mod Warna Tompok Aktif</item>
+        <item>Mod Penglihatan Malam aktif</item>
+        <item>Mod Selfie Kumpulan aktif</item>
+        <item>Mod Penapis Langsung aktif</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_close_settings">
+        <item>Tutup Autofokus</item>
+        <item>Tutup Imbangan putih</item>
+        <item>Tutup kelajuan Pengatup</item>
+        <item>Tutup ISO</item>
+        <item>Tutup Imbangan dedahan</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_selectors">
+        <item>Pemilih autofokus</item>
+        <item>Pemilih imbangan putih</item>
+        <item>Pemilih kelajuan Pengatup</item>
+        <item>Pemilih ISO</item>
+        <item>Pemilih Imbangan dedahan</item>
+    </string-array>
+    <string-array name="talkback_tooltip_titles">
+        <item>Tutorial potret</item>
+        <item>Tutorial foto animasi</item>
+        <item>Tutorial Warna Tompokan</item>
+        <item>Tutorial Video Warna Tompok</item>
+        <item>Tutorial keratan</item>
+        <item>Tutorial Ultra-Res</item>
+        <item>Tutorial makro</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/stage1_layout" android:background="@android:color/transparent" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="horizontal" android:id="@id/guideline_stage1_capture_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintGuide_end="0.0dip" />
+    <include android:visibility="gone" android:layout_width="@dimen/cutout_cli_capture_bar_button_size" android:layout_height="@dimen/cutout_cli_capture_bar_button_size" android:layout_marginBottom="72.0dip" android:layout_marginStart="@dimen/cutout_cli_capture_bar_gallery_margin_start" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" layout="@layout/capture_bar_gallery_thumbnail_cutout_cli" />
+    <include layout="@layout/capture_bar_shutter_layout" />
+</androidx.constraintlayout.widget.ConstraintLayout>

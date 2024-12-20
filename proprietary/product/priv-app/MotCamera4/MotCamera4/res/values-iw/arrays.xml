@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>רגילה</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="filter_names">
+        <item>‏Natural Light</item>
+        <item>‏Romantic</item>
+        <item>‏Film</item>
+        <item>‏Muted</item>
+        <item>‏Dreamy</item>
+        <item>‏Refreshing</item>
+        <item>‏Cool</item>
+        <item>‏Dark Gold</item>
+        <item>‏Foodie</item>
+        <item>‏Cyberpunk</item>
+        <item>‏Youth</item>
+        <item>‏Late Autumn</item>
+        <item>‏B&amp;W Classic</item>
+        <item>‏B&amp;W Vivid</item>
+    </string-array>
+    <string-array name="talkback_cli_modes_menu_pills">
+        <item>"מצב 'תמונה' פעיל"</item>
+        <item>"מצב 'וידאו' פעיל"</item>
+        <item>"מצב 'סרטון וידאו עם צבע ספוט' פעיל"</item>
+        <item>"מצב 'קיטועי זמן' פעיל"</item>
+        <item>"מצב 'הילוך איטי' פעיל"</item>
+        <item>מצב פורטרט פעיל</item>
+        <item>"מצב 'צבע ספוט' פעיל"</item>
+        <item>"מצב 'תצוגת לילה' פעיל"</item>
+        <item>"מצב 'צילום סלפי קבוצתי' פעיל"</item>
+        <item>"מצב 'מסנן חי' פעיל"</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_close_settings">
+        <item>סגור מיקוד אוטומטי</item>
+        <item>סגור איזון לבן</item>
+        <item>סגור מהירות צמצם</item>
+        <item>סגור ISO</item>
+        <item>סגור פיצוי חשיפה</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_selectors">
+        <item>בורר מיקוד אוטומטי</item>
+        <item>בורר איזון לבן</item>
+        <item>בורר מהירות צמצם</item>
+        <item>בורר ISO</item>
+        <item>בורר פיצוי חשיפה</item>
+    </string-array>
+    <string-array name="talkback_tooltip_titles">
+        <item>ערכת לימוד של פורטרט</item>
+        <item>ערכת לימוד של Cinemagraph</item>
+        <item>ערכת לימוד של צבע ספוט</item>
+        <item>ערכת לימוד של סרטון במצב צבע ספוט</item>
+        <item>ערכת לימוד של גזיר</item>
+        <item>ערכת לימוד של Ultra-Res</item>
+        <item>ערכת לימוד של מאקרו</item>
+    </string-array>
+</resources>

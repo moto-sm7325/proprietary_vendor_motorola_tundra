@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton android:id="@id/capture_control_button" android:layout_width="@dimen/capture_bar_button_size" android:layout_height="@dimen/capture_bar_button_size" android:src="@drawable/btn_arrow" android:scaleType="fitCenter" style="@style/ToggleBarButtonStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

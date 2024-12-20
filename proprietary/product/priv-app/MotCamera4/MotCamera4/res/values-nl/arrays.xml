@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normaal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="filter_names">
+        <item>Natuurlijk licht</item>
+        <item>Romantisch</item>
+        <item>Film</item>
+        <item>Gedempt</item>
+        <item>Dromerig</item>
+        <item>Fris</item>
+        <item>Koel</item>
+        <item>Donkergoud</item>
+        <item>Foodie</item>
+        <item>Cyberpunk</item>
+        <item>Jeugd</item>
+        <item>Najaar</item>
+        <item>Z/w klassiek</item>
+        <item>Z/w levendig</item>
+    </string-array>
+    <string-array name="talkback_cli_modes_menu_pills">
+        <item>Fotomodus actief</item>
+        <item>Videomodus actief</item>
+        <item>Modus Spotkleurvideo actief</item>
+        <item>Modus Timelapse actief</item>
+        <item>Modus Slowmotion actief</item>
+        <item>Portretmodus actief</item>
+        <item>Modus Spotkleur actief</item>
+        <item>Modus Nachtzicht actief</item>
+        <item>Modus Groepsselfie actief</item>
+        <item>Modus Live-filter actief</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_close_settings">
+        <item>Automatisch scherpstellen sluiten</item>
+        <item>Witbalans sluiten</item>
+        <item>Sluitertijd sluiten</item>
+        <item>ISO sluiten</item>
+        <item>Belichtingscompensatie sluiten</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_selectors">
+        <item>Schuifregelaar automatisch scherpstellen</item>
+        <item>Schuifregelaar witbalans</item>
+        <item>Schuifregelaar sluitertijd</item>
+        <item>Schuifregelaar ISO</item>
+        <item>Schuifregelaar belichtingscompensatie</item>
+    </string-array>
+    <string-array name="talkback_tooltip_titles">
+        <item>Tutorial portret</item>
+        <item>Tutorial cinemagraph</item>
+        <item>Tutorial spotkleur</item>
+        <item>Tutorial spotkleurvideo</item>
+        <item>Tutorial uitsnede</item>
+        <item>Tutorial Ultra-Res</item>
+        <item>Tutorial macro</item>
+    </string-array>
+</resources>

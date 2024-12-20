@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="filter_names">
+        <item>Dagsljus</item>
+        <item>Romantiskt</item>
+        <item>Filmiskt</item>
+        <item>Dämpat</item>
+        <item>Drömlikt</item>
+        <item>Fräscht</item>
+        <item>Svalt</item>
+        <item>Mörkguld</item>
+        <item>Läckert</item>
+        <item>Cyberpunk</item>
+        <item>Ungdomligt</item>
+        <item>Senhöst</item>
+        <item>Retro svartvitt</item>
+        <item>Livligt</item>
+    </string-array>
+    <string-array name="talkback_cli_modes_menu_pills">
+        <item>Fotoläget är aktivt</item>
+        <item>Läget Video är aktivt</item>
+        <item>Läget Färgområde i video är aktivt</item>
+        <item>Läget Timelapse är aktivt</item>
+        <item>Läget Slowmotion är aktivt</item>
+        <item>Läget Porträtt är aktivt</item>
+        <item>Läget Färgområde är aktivt</item>
+        <item>Läget Mörkerseende är aktivt</item>
+        <item>Läget Gruppselfie är aktivt</item>
+        <item>Läget Livefilter är aktivt</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_close_settings">
+        <item>Stäng autofokus</item>
+        <item>Stäng vitbalans</item>
+        <item>Stäng slutarhastighet</item>
+        <item>Stäng ISO</item>
+        <item>Stäng exponeringskompensation</item>
+    </string-array>
+    <string-array name="talkback_pro_mode_selectors">
+        <item>Val av autofokus</item>
+        <item>Val av vitbalans</item>
+        <item>Val av slutarhastighet</item>
+        <item>Val av ISO</item>
+        <item>Val av exponeringskompensation</item>
+    </string-array>
+    <string-array name="talkback_tooltip_titles">
+        <item>Självstudie om porträtt</item>
+        <item>Självstudie om cinemagraf</item>
+        <item>Självstudie om färgområde</item>
+        <item>Videosjälvstudie om färgområde</item>
+        <item>Självstudie om utskärning</item>
+        <item>Självstudie om Ultra-Res</item>
+        <item>Självstudie om makro</item>
+    </string-array>
+</resources>

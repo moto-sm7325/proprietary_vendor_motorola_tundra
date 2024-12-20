@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory>
+        <SwitchPreferenceCompat android:key="@string/settings_list_ai_gesture_capture_key" android:summaryOn="@string/settings_list_switch_on" android:summaryOff="@string/settings_list_off" />
+        <Preference android:title="@string/settings_list_photo_booth_summary" android:key="@string/settings_list_photo_booth_layout_key" />
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <com.motorola.camera.ui.controls_2020.settings.fragment.RadioButtonPreference android:title="@string/settings_list_photo_booth_single_photo" android:key="@string/settings_list_photo_booth_single_radio_key" />
+        <com.motorola.camera.ui.controls_2020.settings.fragment.RadioButtonPreference android:title="@string/settings_list_photo_booth_title" android:key="@string/settings_list_photo_booth_multi_radio_key" android:summary="@string/settings_list_photo_booth_radio_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>
